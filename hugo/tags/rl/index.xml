@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rl on Haoming Jiang</title>
+    <link>http://localhost:1313/tags/rl/</link>
+    <description>Recent content in Rl on Haoming Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jun 2020 22:49:01 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Papers are Accepted by ICML 2020</title>
+      <link>http://localhost:1313/news/icml2020/</link>
+      <pubDate>Sun, 07 Jun 2020 22:49:01 -0400</pubDate>
+      
+      <guid>http://localhost:1313/news/icml2020/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Two papers are accepted by ICML 2020!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One is about transformer-based point process model.&lt;/p&gt;
+&lt;p&gt;The other one is about using smooth policy to improve reinforcement learning in continuous environment.&lt;/p&gt;
+&lt;h3 id=&#34;reference&#34;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;span style=&#34;color:white;font-weight:bold;&#34;&gt;Deep Reinforcement Learning with Smooth Policy&lt;/span&gt; &lt;span style=&#34;float:right;font-weight:bold;&#34;&gt;2020&lt;/span&gt;&lt;br/&gt;
+&lt;span style=&#34;color:LightGrey&#34;&gt;Qianli Shen, Yan Li, Haoming Jiang, Zhaoran Wang, Tuo Zhao&lt;/span&gt;
+ &lt;a href=&#34;https://arxiv.org/pdf/2003.09534.pdf&#34;&gt;[arXiv]&lt;/a&gt;
+
+
+
+
+ &lt;br/&gt; &lt;strong&gt;&lt;em style=&#34;color:LightGrey&#34;&gt;International Conference on Machine Learning (ICML)&lt;/em&gt;&lt;/strong&gt;, 2020
+
+
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;span style=&#34;color:white;font-weight:bold;&#34;&gt;Transformer Hawkes Process&lt;/span&gt; &lt;span style=&#34;float:right;font-weight:bold;&#34;&gt;2020&lt;/span&gt;&lt;br/&gt;
+&lt;span style=&#34;color:LightGrey&#34;&gt;Simiao Zuo, Haoming Jiang, Zichong Li, Tuo Zhao, Hongyuan Zha&lt;/span&gt;
+ &lt;a href=&#34;https://arxiv.org/pdf/2002.09291.pdf&#34;&gt;[arXiv]&lt;/a&gt;
+
+
+
+
+ &lt;br/&gt; &lt;strong&gt;&lt;em style=&#34;color:LightGrey&#34;&gt;International Conference on Machine Learning (ICML)&lt;/em&gt;&lt;/strong&gt;, 2020
+
+
+&lt;/p&gt;</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;Two papers are accepted by ICML 2020!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One is about transformer-based point process model.&lt;/p&gt;
+&lt;p&gt;The other one is about using smooth policy to improve reinforcement learning in continuous environment.&lt;/p&gt;
+&lt;h3 id=&#34;reference&#34;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;span style=&#34;color:white;font-weight:bold;&#34;&gt;Deep Reinforcement Learning with Smooth Policy&lt;/span&gt; &lt;span style=&#34;float:right;font-weight:bold;&#34;&gt;2020&lt;/span&gt;&lt;br/&gt;
+&lt;span style=&#34;color:LightGrey&#34;&gt;Qianli Shen, Yan Li, Haoming Jiang, Zhaoran Wang, Tuo Zhao&lt;/span&gt;
+ &lt;a href=&#34;https://arxiv.org/pdf/2003.09534.pdf&#34;&gt;[arXiv]&lt;/a&gt;
+
+
+
+
+ &lt;br/&gt; &lt;strong&gt;&lt;em style=&#34;color:LightGrey&#34;&gt;International Conference on Machine Learning (ICML)&lt;/em&gt;&lt;/strong&gt;, 2020
+
+
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;span style=&#34;color:white;font-weight:bold;&#34;&gt;Transformer Hawkes Process&lt;/span&gt; &lt;span style=&#34;float:right;font-weight:bold;&#34;&gt;2020&lt;/span&gt;&lt;br/&gt;
+&lt;span style=&#34;color:LightGrey&#34;&gt;Simiao Zuo, Haoming Jiang, Zichong Li, Tuo Zhao, Hongyuan Zha&lt;/span&gt;
+ &lt;a href=&#34;https://arxiv.org/pdf/2002.09291.pdf&#34;&gt;[arXiv]&lt;/a&gt;
+
+
+
+
+ &lt;br/&gt; &lt;strong&gt;&lt;em style=&#34;color:LightGrey&#34;&gt;International Conference on Machine Learning (ICML)&lt;/em&gt;&lt;/strong&gt;, 2020
+
+
+&lt;/p&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

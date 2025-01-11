@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Haoming Jiang</title>
+    <link>https://hmjianggatech.github.io/tags/</link>
+    <description>Recent content in Tags on Haoming Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Feb 2021 18:53:26 -0500</lastBuildDate><atom:link href="https://hmjianggatech.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv</title>
+      <link>https://hmjianggatech.github.io/tags/arxiv/</link>
+      <pubDate>Wed, 24 Feb 2021 18:53:26 -0500</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/arxiv/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Webapp</title>
+      <link>https://hmjianggatech.github.io/tags/webapp/</link>
+      <pubDate>Wed, 24 Feb 2021 18:53:26 -0500</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/webapp/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Bert</title>
+      <link>https://hmjianggatech.github.io/tags/bert/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/bert/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning</title>
+      <link>https://hmjianggatech.github.io/tags/fine-tuning/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/fine-tuning/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>GLUE</title>
+      <link>https://hmjianggatech.github.io/tags/glue/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/glue/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>https://hmjianggatech.github.io/tags/nlp/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/nlp/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Smart</title>
+      <link>https://hmjianggatech.github.io/tags/smart/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmjianggatech.github.io/tags/smart/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
